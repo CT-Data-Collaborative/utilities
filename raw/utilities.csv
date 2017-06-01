@@ -1,0 +1,1015 @@
+"Town","FIPS","Year","Utility","Name","Telephone","Website"
+"Andover","0901301080","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Ansonia","0900901220","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Ashford","0901501430","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Avon","0900302060","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Barkhamsted","0900502760","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Beacon Falls","0900903250","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Berlin","0900304300","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Bethany","0900904580","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Bethel","0900104720","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Bethlehem","0900504930","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Bloomfield","0900305910","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Bolton","0901306260","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Bozrah","0901106820","2016","Electric","Bozrah Light & Power/Groton Utilities","(860) 446-4000","www.grotonutilities.com/electric_bozrah.asp"
+"Branford","0900907310","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Bridgeport","0900108070","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Bridgewater","0900508210","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Bristol","0900308490","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Brookfield","0900108980","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Brooklyn","0901509190","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Burlington","0900310100","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Canaan","0900510940","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Canterbury","0901512130","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Canton","0900312270","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Chaplin","0901513810","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Cheshire","0900914160","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Chester","0900714300","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Clinton","0900715350","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Colchester","0901115910","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Colebrook","0900516050","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Columbia","0901316400","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Cornwall","0900517240","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Coventry","0901317800","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Cromwell","0900718080","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Danbury","0900118500","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Darien","0900118850","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Deep River","0900719130","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Derby","0900919550","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Durham","0900720810","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Eastford","0901521860","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"East Granby","0900322070","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"East Haddam","0900722280","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"East Hampton","0900722490","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"East Hartford","0900322630","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"East Haven","0900922910","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"East Lyme","0901123400","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Easton","0900123890","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"East Windsor","0900324800","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Ellington","0901325360","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Enfield","0900325990","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Essex","0900726270","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Fairfield","0900126620","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Farmington","0900327600","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Franklin","0901129910","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Glastonbury","0900331240","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Goshen","0900532290","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Granby","0900332640","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Greenwich","0900133620","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Griswold","0901133900","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Groton","0901134250","2016","Electric","Groton Utilities Electric Division","(860) 446-4000","www.grotonutilities.com/"
+"Guilford","0900934950","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Haddam","0900735230","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Hamden","0900935650","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Hampton","0901536000","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Hartford","0900337070","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Hartland","0900337140","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Harwinton","0900537280","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Hebron","0901337910","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Kent","0900540290","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Killingly","0901540500","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Killingworth","0900740710","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Lebanon","0901142390","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Ledyard","0901142600","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Lisbon","0901143230","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Litchfield","0900543370","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Lyme","0901144210","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Madison","0900944560","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Manchester","0900344700","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Mansfield","0901344910","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Marlborough","0900345820","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Meriden","0900946520","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Middlebury","0900946940","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Middlefield","0900747080","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Middletown","0900747360","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Milford","0900947535","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Monroe","0900148620","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Montville","0901148900","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Morris","0900549460","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Naugatuck","0900949950","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"New Britain","0900350440","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"New Canaan","0900150580","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"New Fairfield","0900150860","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"New Hartford","0900551350","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"New Haven","0900952070","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Newington","0900352140","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"New London","0901152350","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"New Milford","0900552630","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Newtown","0900152980","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Norfolk","0900553470","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"North Branford","0900953890","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"North Canaan","0900554030","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"North Haven","0900954870","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"North Stonington","0901155500","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Norwalk","0900156060","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Norwich","0901156270","2016","Electric","Norwich Public Utilities","(860) 887-2555",-666666
+"Old Lyme","0901157040","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Old Saybrook","0900757320","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Orange","0900957600","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Oxford","0900958300","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Plainfield","0901559980","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Plainville","0900360120","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Plymouth","0900560750","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Pomfret","0901561030","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Portland","0900761800","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Preston","0901162150","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Prospect","0900962290","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Putnam","0901562710","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Redding","0900163480","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Ridgefield","0900163970","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Rocky Hill","0900365370","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Roxbury","0900565930","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Salem","0901166210","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Salisbury","0900566420","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Scotland","0901567400","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Seymour","0900967610","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Sharon","0900567960","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Shelton","0900168170","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Sherman","0900168310","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Simsbury","0900368940","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Somers","0901369220","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Southbury","0900969640","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Southington","0900370550","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"South Windsor","0900371390","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Sprague","0901171670","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Stafford","0901372090","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Stamford","0900173070","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Sterling","0901573420","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Stonington","0901173770","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Stratford","0900174190","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Suffield","0900374540","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Thomaston","0900575730","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Thompson","0901575870","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Tolland","0901376290","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Torrington","0900576570","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Trumbull","0900177200","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Union","0901377830","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Vernon","0901378250","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Voluntown","0901178600","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Wallingford","0900978740","2016","Electric","Wallingford-Public Utilities Electric Div.","(203) 265-5055","http://www.town.wallingford.ct.us/Content/Electric_Division.asp"
+"Warren","0900579510","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Washington","0900579720","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Waterbury","0900980070","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Waterford","0901180280","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Watertown","0900580490","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"West Hartford","0900382590","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"West Haven","0900982870","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Westbrook","0900781680","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Weston","0900183430","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Westport","0900183500","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Wethersfield","0900384900","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Willington","0901385950","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Wilton","0900186370","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Winchester","0900586440","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Windham","0901586790","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Windsor Locks","0900387070","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Windsor","0900387000","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Wolcott","0900987560","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Woodbridge","0900987700","2016","Electric","The United Illuminating Co.","(800) 257-0141","www.uinet.com"
+"Woodbury","0900587910","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Woodstock","0901588190","2016","Electric","Eversource Energy","(800) 286-2000","www.eversource.com"
+"Andover","0901301080","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Ansonia","0900901220","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Ashford","0901501430","2016","Gas",-666666,-666666,-666666
+"Avon","0900302060","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Barkhamsted","0900502760","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Beacon Falls","0900903250","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Berlin","0900304300","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Bethany","0900904580","2016","Gas",-666666,-666666,-666666
+"Bethel","0900104720","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Bethlehem","0900504930","2016","Gas",-666666,-666666,-666666
+"Bloomfield","0900305910","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Bolton","0901306260","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Bozrah","0901106820","2016","Gas",-666666,-666666,-666666
+"Branford","0900907310","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Bridgeport","0900108070","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Bridgewater","0900508210","2016","Gas",-666666,-666666,-666666
+"Bristol","0900308490","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Brookfield","0900108980","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Brooklyn","0901509190","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Burlington","0900310100","2016","Gas","Connecticut Natural Gas","(860) 727-3000","www.cngcorp.com"
+"Canaan","0900510940","2016","Gas",-666666,-666666,-666666
+"Canterbury","0901512130","2016","Gas",-666666,-666666,-666666
+"Canton","0900312270","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Chaplin","0901513810","2016","Gas",-666666,-666666,-666666
+"Cheshire","0900914160","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Chester","0900714300","2016","Gas",-666666,-666666,-666666
+"Clinton","0900715350","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Colchester","0901115910","2016","Gas",-666666,-666666,-666666
+"Colebrook","0900516050","2016","Gas",-666666,-666666,-666666
+"Columbia","0901316400","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Cornwall","0900517240","2016","Gas",-666666,-666666,-666666
+"Coventry","0901317800","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Cromwell","0900718080","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Danbury","0900118500","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Darien","0900118850","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Deep River","0900719130","2016","Gas",-666666,-666666,-666666
+"Derby","0900919550","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Durham","0900720810","2016","Gas",-666666,-666666,-666666
+"Eastford","0901521860","2016","Gas",-666666,-666666,-666666
+"East Granby","0900322070","2016","Gas","Connecticut Natural Gas","(860) 727-3000","www.cngcorp.com"
+"East Haddam","0900722280","2016","Gas",-666666,-666666,-666666
+"East Hampton","0900722490","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"East Hartford","0900322630","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"East Haven","0900922910","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"East Lyme","0901123400","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Easton","0900123890","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"East Windsor","0900324800","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Ellington","0901325360","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Enfield","0900325990","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Essex","0900726270","2016","Gas",-666666,-666666,-666666
+"Fairfield","0900126620","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Farmington","0900327600","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Franklin","0901129910","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Glastonbury","0900331240","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Goshen","0900532290","2016","Gas",-666666,-666666,-666666
+"Granby","0900332640","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Greenwich","0900133620","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Griswold","0901133900","2016","Gas",-666666,-666666,-666666
+"Groton","0901134250","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Guilford","0900934950","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Haddam","0900735230","2016","Gas",-666666,-666666,-666666
+"Hamden","0900935650","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Hampton","0901536000","2016","Gas",-666666,-666666,-666666
+"Hartford","0900337070","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Hartland","0900337140","2016","Gas",-666666,-666666,-666666
+"Harwinton","0900537280","2016","Gas",-666666,-666666,-666666
+"Hebron","0901337910","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Kent","0900540290","2016","Gas",-666666,-666666,-666666
+"Killingly","0901540500","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Killingworth","0900740710","2016","Gas",-666666,-666666,-666666
+"Lebanon","0901142390","2016","Gas",-666666,-666666,-666666
+"Ledyard","0901142600","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Lisbon","0901143230","2016","Gas",-666666,-666666,-666666
+"Litchfield","0900543370","2016","Gas",-666666,-666666,-666666
+"Lyme","0901144210","2016","Gas",-666666,-666666,-666666
+"Madison","0900944560","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Manchester","0900344700","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Mansfield","0901344910","2016","Gas","Connecticut Natural Gas","(860) 727-3000","www.cngcorp.com"
+"Marlborough","0900345820","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Meriden","0900946520","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Middlebury","0900946940","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Middlefield","0900747080","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Middletown","0900747360","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Milford","0900947535","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Monroe","0900148620","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Montville","0901148900","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Morris","0900549460","2016","Gas",-666666,-666666,-666666
+"Naugatuck","0900949950","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"New Britain","0900350440","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"New Canaan","0900150580","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"New Fairfield","0900150860","2016","Gas",-666666,-666666,-666666
+"New Hartford","0900551350","2016","Gas",-666666,-666666,-666666
+"New Haven","0900952070","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Newington","0900352140","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"New London","0901152350","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"New Milford","0900552630","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Newtown","0900152980","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Norfolk","0900553470","2016","Gas",-666666,-666666,-666666
+"North Branford","0900953890","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"North Canaan","0900554030","2016","Gas",-666666,-666666,-666666
+"North Haven","0900954870","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"North Stonington","0901155500","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Norwalk","0900156060","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Norwich","0901156270","2016","Gas","Norwich Public Utilities","(860) 887-2555",-666666
+"Old Lyme","0901157040","2016","Gas",-666666,-666666,-666666
+"Old Saybrook","0900757320","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Orange","0900957600","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Oxford","0900958300","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Plainfield","0901559980","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Plainville","0900360120","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Plymouth","0900560750","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Pomfret","0901561030","2016","Gas",-666666,-666666,-666666
+"Portland","0900761800","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Preston","0901162150","2016","Gas",-666666,-666666,-666666
+"Prospect","0900962290","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Putnam","0901562710","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Redding","0900163480","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Ridgefield","0900163970","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Rocky Hill","0900365370","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Roxbury","0900565930","2016","Gas",-666666,-666666,-666666
+"Salem","0901166210","2016","Gas",-666666,-666666,-666666
+"Salisbury","0900566420","2016","Gas",-666666,-666666,-666666
+"Scotland","0901567400","2016","Gas",-666666,-666666,-666666
+"Seymour","0900967610","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Sharon","0900567960","2016","Gas",-666666,-666666,-666666
+"Shelton","0900168170","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Sherman","0900168310","2016","Gas",-666666,-666666,-666666
+"Simsbury","0900368940","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Somers","0901369220","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Southbury","0900969640","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Southington","0900370550","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"South Windsor","0900371390","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Sprague","0901171670","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Stafford","0901372090","2016","Gas",-666666,-666666,-666666
+"Stamford","0900173070","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Sterling","0901573420","2016","Gas",-666666,-666666,-666666
+"Stonington","0901173770","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Stratford","0900174190","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Suffield","0900374540","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Thomaston","0900575730","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Thompson","0901575870","2016","Gas",-666666,-666666,-666666
+"Tolland","0901376290","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Torrington","0900576570","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Trumbull","0900177200","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Union","0901377830","2016","Gas",-666666,-666666,-666666
+"Vernon","0901378250","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Voluntown","0901178600","2016","Gas",-666666,-666666,-666666
+"Wallingford","0900978740","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Warren","0900579510","2016","Gas",-666666,-666666,-666666
+"Washington","0900579720","2016","Gas",-666666,-666666,-666666
+"Waterbury","0900980070","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Waterford","0901180280","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Watertown","0900580490","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"West Hartford","0900382590","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"West Haven","0900982870","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Westbrook","0900781680","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Weston","0900183430","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Westport","0900183500","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Wethersfield","0900384900","2016","Gas","CNG Corp","(860) 727-3000","www.cngcorp.com"
+"Willington","0901385950","2016","Gas",-666666,-666666,-666666
+"Wilton","0900186370","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Winchester","0900586440","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Windham","0901586790","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Windsor Locks","0900387070","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Windsor","0900387000","2016","Gas","Connecticut Natural Gas","(860) 727-3000","www.cngcorp.com"
+"Wolcott","0900987560","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Woodbridge","0900987700","2016","Gas","Southern Connecticut Gas Company","(203) 382-8111","www.naturalgas.com/scg"
+"Woodbury","0900587910","2016","Gas","Eversource Energy","(800) 989-0900","www.eversource.com"
+"Woodstock","0901588190","2016","Gas",-666666,-666666,-666666
+"Andover","0901301080","2016","Water","Municipal Provider","Local Contact",-666666
+"Ansonia","0900901220","2016","Water","Birmingham Utilities","(203) 735-1888",-666666
+"Ashford","0901501430","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Avon","0900302060","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Barkhamsted","0900502760","2016","Water","Municipal Provider","Local Contact",-666666
+"Beacon Falls","0900903250","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Berlin","0900304300","2016","Water","Municipal Provider","Local Contact",-666666
+"Bethany","0900904580","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Bethel","0900104720","2016","Water","Municipal Provider","Local Contact",-666666
+"Bethlehem","0900504930","2016","Water","Municipal Provider","Local Contact",-666666
+"Bloomfield","0900305910","2016","Water","Municipal Provider","Local Contact",-666666
+"Bolton","0901306260","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Bozrah","0901106820","2016","Water","Municipal Provider","Local Contact",-666666
+"Branford","0900907310","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"Bridgeport","0900108070","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Bridgewater","0900508210","2016","Water",-666666,-666666,-666666
+"Bristol","0900308490","2016","Water","Municipal Provider","Local Contact",-666666
+"Brookfield","0900108980","2016","Water","Municipal Provider","Local Contact",-666666
+"Brooklyn","0901509190","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Burlington","0900310100","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Canaan","0900510940","2016","Water",-666666,-666666,-666666
+"Canterbury","0901512130","2016","Water","Municipal Provider","Local Contact",-666666
+"Canton","0900312270","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Chaplin","0901513810","2016","Water","Municipal Provider","Local Contact",-666666
+"Cheshire","0900914160","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020",-666666
+"Chester","0900714300","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Clinton","0900715350","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Colchester","0901115910","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Colebrook","0900516050","2016","Water","Municipal Provider","Local Contact",-666666
+"Columbia","0901316400","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Cornwall","0900517240","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Coventry","0901317800","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Cromwell","0900718080","2016","Water","Municipal Provider","Local Contact",-666666
+"Danbury","0900118500","2016","Water","Municipal Provider","Local Contact",-666666
+"Darien","0900118850","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Deep River","0900719130","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Derby","0900919550","2016","Water","Birmingham Utilities","(203) 735-1888",-666666
+"Durham","0900720810","2016","Water","Municipal Provider","Local Contact",-666666
+"Eastford","0901521860","2016","Water","Municipal Provider","Local Contact",-666666
+"East Granby","0900322070","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"East Haddam","0900722280","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"East Hampton","0900722490","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"East Hartford","0900322630","2016","Water","Municipal Provider","Local Contact",-666666
+"East Haven","0900922910","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"East Lyme","0901123400","2016","Water","Municipal Provider","Local Contact",-666666
+"Easton","0900123890","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"East Windsor","0900324800","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Ellington","0901325360","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Enfield","0900325990","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Essex","0900726270","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Fairfield","0900126620","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Farmington","0900327600","2016","Water","Connecticut Water Company","(800) 286-5700",-666666
+"Franklin","0901129910","2016","Water","Municipal Provider","Local Contact",-666666
+"Glastonbury","0900331240","2016","Water","Municipal Provider","Local Contact",-666666
+"Goshen","0900532290","2016","Water",-666666,-666666,-666666
+"Granby","0900332640","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Greenwich","0900133620","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Griswold","0901133900","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Groton","0901134250","2016","Water","Groton Utilities Water Division","(860) 446-4000","www.grotonutilities.com/"
+"Guilford","0900934950","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Haddam","0900735230","2016","Water","Municipal Provider","Local Contact",-666666
+"Hamden","0900935650","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"Hampton","0901536000","2016","Water","Municipal Provider","Local Contact",-666666
+"Hartford","0900337070","2016","Water","Municipal Provider","Local Contact",-666666
+"Hartland","0900337140","2016","Water","Municipal Provider","Local Contact",-666666
+"Harwinton","0900537280","2016","Water","Municipal Provider","Local Contact",-666666
+"Hebron","0901337910","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Kent","0900540290","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Killingly","0901540500","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Killingworth","0900740710","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Lebanon","0901142390","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Ledyard","0901142600","2016","Water","Municipal Provider","Local Contact",-666666
+"Lisbon","0901143230","2016","Water","Municipal Provider","Local Contact",-666666
+"Litchfield","0900543370","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Lyme","0901144210","2016","Water","Municipal Provider","Local Contact",-666666
+"Madison","0900944560","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Manchester","0900344700","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Mansfield","0901344910","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Marlborough","0900345820","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Meriden","0900946520","2016","Water","City of Meriden Water Department","(203) 630-4256",-666666
+"Middlebury","0900946940","2016","Water","Connecticut Water Company","(800) 286-5700",-666666
+"Middlefield","0900747080","2016","Water","Municipal Provider","Local Contact",-666666
+"Middletown","0900747360","2016","Water","Municipal Provider","(860) 343-8085",-666666
+"Milford","0900947535","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"Monroe","0900148620","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Montville","0901148900","2016","Water","Municipal Provider","Local Contact",-666666
+"Morris","0900549460","2016","Water","Municipal Provider","Local Contact",-666666
+"Naugatuck","0900949950","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"New Britain","0900350440","2016","Water","Municipal Provider","Local Contact",-666666
+"New Canaan","0900150580","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"New Fairfield","0900150860","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"New Hartford","0900551350","2016","Water","Municipal Provider","Local Contact",-666666
+"New Haven","0900952070","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"Newington","0900352140","2016","Water","Municipal Provider","Local Contact",-666666
+"New London","0901152350","2016","Water","Municipal Provider","Local Contact",-666666
+"New Milford","0900552630","2016","Water","Municipal Provider","Local Contact",-666666
+"Newtown","0900152980","2016","Water","Municipal Provider","Local Contact",-666666
+"Norfolk","0900553470","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"North Branford","0900953890","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"North Canaan","0900554030","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"North Haven","0900954870","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"North Stonington","0901155500","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Norwalk","0900156060","2016","Water","Municipal Provider","Local Contact","www.norwalk2ndwater.com"
+"Norwich","0901156270","2016","Water","Norwich Public Utilities","(860) 887-2555",-666666
+"Old Lyme","0901157040","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Old Saybrook","0900757320","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Orange","0900957600","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"Oxford","0900958300","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Plainfield","0901559980","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Plainville","0900360120","2016","Water","Municipal Provider","Local Contact",-666666
+"Plymouth","0900560750","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Pomfret","0901561030","2016","Water","Municipal Provider","Local Contact",-666666
+"Portland","0900761800","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Preston","0901162150","2016","Water","Municipal Provider","Local Contact",-666666
+"Prospect","0900962290","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Putnam","0901562710","2016","Water","Municipal Provider","Local Contact",-666666
+"Redding","0900163480","2016","Water","Municipal Provider","Local Contact",-666666
+"Ridgefield","0900163970","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Rocky Hill","0900365370","2016","Water","Municipal Provider","Local Contact",-666666
+"Roxbury","0900565930","2016","Water","Municipal Provider","Local Contact",-666666
+"Salem","0901166210","2016","Water","Municipal Provider","Local Contact",-666666
+"Salisbury","0900566420","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Scotland","0901567400","2016","Water","Municipal Provider","Local Contact",-666666
+"Seymour","0900967610","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Sharon","0900567960","2016","Water","Municipal Provider","Local Contact",-666666
+"Shelton","0900168170","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Sherman","0900168310","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Simsbury","0900368940","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Somers","0901369220","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Southbury","0900969640","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Southington","0900370550","2016","Water","Municipal Provider","Local Contact",-666666
+"South Windsor","0900371390","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Sprague","0901171670","2016","Water","Municipal Provider","Local Contact",-666666
+"Stafford","0901372090","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Stamford","0900173070","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Sterling","0901573420","2016","Water","Municipal Provider","Local Contact",-666666
+"Stonington","0901173770","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Stratford","0900174190","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Suffield","0900374540","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Thomaston","0900575730","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Thompson","0901575870","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Tolland","0901376290","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Torrington","0900576570","2016","Water","Municipal Provider","Local Contact",-666666
+"Trumbull","0900177200","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Union","0901377830","2016","Water","Municipal Provider","Local Contact",-666666
+"Vernon","0901378250","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Voluntown","0901178600","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Wallingford","0900978740","2016","Water","Municipal Provider","(203) 949-2666",-666666
+"Warren","0900579510","2016","Water","Municipal Provider","Local Contact",-666666
+"Washington","0900579720","2016","Water","Municipal Provider","Local Contact",-666666
+"Waterbury","0900980070","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Waterford","0901180280","2016","Water","Municipal Provider","Local Contact",-666666
+"Watertown","0900580490","2016","Water","Municipal Provider","Local Contact",-666666
+"West Hartford","0900382590","2016","Water","Municipal Provider","Local Contact",-666666
+"West Haven","0900982870","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"Westbrook","0900781680","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Weston","0900183430","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Westport","0900183500","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Wethersfield","0900384900","2016","Water","Municipal Provider","Local Contact",-666666
+"Willington","0901385950","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Wilton","0900186370","2016","Water","Aquarion Water Company","(800) 732-9678","www.aquarion.com"
+"Winchester","0900586440","2016","Water","Municipal Provider","Local Contact",-666666
+"Windham","0901586790","2016","Water","Municipal Provider","Local Contact",-666666
+"Windsor Locks","0900387070","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Windsor","0900387000","2016","Water","Municipal Provider","Local Contact",-666666
+"Wolcott","0900987560","2016","Water","Municipal Provider","Local Contact",-666666
+"Woodbridge","0900987700","2016","Water","South Central CT Regional Water Auth.","(203) 562-4020","www.rwater.com"
+"Woodbury","0900587910","2016","Water","Municipal Provider","Local Contact",-666666
+"Woodstock","0901588190","2016","Water","Connecticut Water Company","(800) 286-5700","www.ctwater.com"
+"Andover","0901301080","2016","Sewer",-666666,-666666,-666666
+"Ansonia","0900901220","2016","Sewer","City of Ansonia","(203) 736-5945",-666666
+"Ashford","0901501430","2016","Sewer",-666666,-666666,-666666
+"Avon","0900302060","2016","Sewer",-666666,-666666,-666666
+"Barkhamsted","0900502760","2016","Sewer",-666666,-666666,-666666
+"Beacon Falls","0900903250","2016","Sewer","Town of Beacon Falls Water Pollution Cntrl","(203) 729-2926",-666666
+"Berlin","0900304300","2016","Sewer",-666666,-666666,-666666
+"Bethany","0900904580","2016","Sewer",-666666,-666666,-666666
+"Bethel","0900104720","2016","Sewer",-666666,-666666,-666666
+"Bethlehem","0900504930","2016","Sewer",-666666,-666666,-666666
+"Bloomfield","0900305910","2016","Sewer",-666666,-666666,-666666
+"Bolton","0901306260","2016","Sewer",-666666,-666666,-666666
+"Bozrah","0901106820","2016","Sewer",-666666,-666666,-666666
+"Branford","0900907310","2016","Sewer","Town of Branford Sewer Auth.","(203) 488-3125",-666666
+"Bridgeport","0900108070","2016","Sewer","City of Bridgeport Water Pollution Cntrl Auth.","(203) 332-5550",-666666
+"Bridgewater","0900508210","2016","Sewer",-666666,-666666,-666666
+"Bristol","0900308490","2016","Sewer",-666666,-666666,-666666
+"Brookfield","0900108980","2016","Sewer",-666666,-666666,-666666
+"Brooklyn","0901509190","2016","Sewer",-666666,-666666,-666666
+"Burlington","0900310100","2016","Sewer",-666666,-666666,-666666
+"Canaan","0900510940","2016","Sewer",-666666,-666666,-666666
+"Canterbury","0901512130","2016","Sewer",-666666,-666666,-666666
+"Canton","0900312270","2016","Sewer",-666666,-666666,-666666
+"Chaplin","0901513810","2016","Sewer",-666666,-666666,-666666
+"Cheshire","0900914160","2016","Sewer",-666666,-666666,-666666
+"Chester","0900714300","2016","Sewer",-666666,-666666,-666666
+"Clinton","0900715350","2016","Sewer",-666666,-666666,-666666
+"Colchester","0901115910","2016","Sewer",-666666,-666666,-666666
+"Colebrook","0900516050","2016","Sewer",-666666,-666666,-666666
+"Columbia","0901316400","2016","Sewer",-666666,-666666,-666666
+"Cornwall","0900517240","2016","Sewer",-666666,-666666,-666666
+"Coventry","0901317800","2016","Sewer",-666666,-666666,-666666
+"Cromwell","0900718080","2016","Sewer",-666666,-666666,-666666
+"Danbury","0900118500","2016","Sewer",-666666,-666666,-666666
+"Darien","0900118850","2016","Sewer",-666666,-666666,-666666
+"Deep River","0900719130","2016","Sewer",-666666,-666666,-666666
+"Derby","0900919550","2016","Sewer","City of Derby Water Pollution Cntrl Auth.","(203) 736-1475",-666666
+"Durham","0900720810","2016","Sewer",-666666,-666666,-666666
+"Eastford","0901521860","2016","Sewer",-666666,-666666,-666666
+"East Granby","0900322070","2016","Sewer",-666666,-666666,-666666
+"East Haddam","0900722280","2016","Sewer",-666666,-666666,-666666
+"East Hampton","0900722490","2016","Sewer",-666666,-666666,-666666
+"East Hartford","0900322630","2016","Sewer",-666666,-666666,-666666
+"East Haven","0900922910","2016","Sewer","Town of East Haven Water Pollution Cntrl Auth.","(203) 468-3238",-666666
+"East Lyme","0901123400","2016","Sewer",-666666,-666666,-666666
+"Easton","0900123890","2016","Sewer",-666666,-666666,-666666
+"East Windsor","0900324800","2016","Sewer",-666666,-666666,-666666
+"Ellington","0901325360","2016","Sewer",-666666,-666666,-666666
+"Enfield","0900325990","2016","Sewer",-666666,-666666,-666666
+"Essex","0900726270","2016","Sewer",-666666,-666666,-666666
+"Fairfield","0900126620","2016","Sewer","Town of Fairfield Water Pollution Cntrl Auth.","(203) 256-3003",-666666
+"Farmington","0900327600","2016","Sewer",-666666,-666666,-666666
+"Franklin","0901129910","2016","Sewer",-666666,-666666,-666666
+"Glastonbury","0900331240","2016","Sewer",-666666,-666666,-666666
+"Goshen","0900532290","2016","Sewer",-666666,-666666,-666666
+"Granby","0900332640","2016","Sewer",-666666,-666666,-666666
+"Greenwich","0900133620","2016","Sewer",-666666,-666666,-666666
+"Griswold","0901133900","2016","Sewer",-666666,-666666,-666666
+"Groton","0901134250","2016","Sewer",-666666,-666666,-666666
+"Guilford","0900934950","2016","Sewer",-666666,-666666,-666666
+"Haddam","0900735230","2016","Sewer",-666666,-666666,-666666
+"Hamden","0900935650","2016","Sewer","Town of Hamden Water Pollution Cntrl Auth.","(203) 287-2646",-666666
+"Hampton","0901536000","2016","Sewer",-666666,-666666,-666666
+"Hartford","0900337070","2016","Sewer",-666666,-666666,-666666
+"Hartland","0900337140","2016","Sewer",-666666,-666666,-666666
+"Harwinton","0900537280","2016","Sewer",-666666,-666666,-666666
+"Hebron","0901337910","2016","Sewer",-666666,-666666,-666666
+"Kent","0900540290","2016","Sewer",-666666,-666666,-666666
+"Killingly","0901540500","2016","Sewer",-666666,-666666,-666666
+"Killingworth","0900740710","2016","Sewer",-666666,-666666,-666666
+"Lebanon","0901142390","2016","Sewer",-666666,-666666,-666666
+"Ledyard","0901142600","2016","Sewer",-666666,-666666,-666666
+"Lisbon","0901143230","2016","Sewer",-666666,-666666,-666666
+"Litchfield","0900543370","2016","Sewer",-666666,-666666,-666666
+"Lyme","0901144210","2016","Sewer",-666666,-666666,-666666
+"Madison","0900944560","2016","Sewer",-666666,-666666,-666666
+"Manchester","0900344700","2016","Sewer",-666666,-666666,-666666
+"Mansfield","0901344910","2016","Sewer",-666666,-666666,-666666
+"Marlborough","0900345820","2016","Sewer",-666666,-666666,-666666
+"Meriden","0900946520","2016","Sewer","City of Meriden Department of Public Works","(203) 630-4261",-666666
+"Middlebury","0900946940","2016","Sewer",-666666,-666666,-666666
+"Middlefield","0900747080","2016","Sewer",-666666,-666666,-666666
+"Middletown","0900747360","2016","Sewer","Middletown Water & Sewer Department","(860) 343-8085",-666666
+"Milford","0900947535","2016","Sewer","City of Milford Sewer Commission","(203) 783-3249",-666666
+"Monroe","0900148620","2016","Sewer",-666666,-666666,-666666
+"Montville","0901148900","2016","Sewer",-666666,-666666,-666666
+"Morris","0900549460","2016","Sewer",-666666,-666666,-666666
+"Naugatuck","0900949950","2016","Sewer",-666666,-666666,-666666
+"New Britain","0900350440","2016","Sewer",-666666,-666666,-666666
+"New Canaan","0900150580","2016","Sewer",-666666,-666666,-666666
+"New Fairfield","0900150860","2016","Sewer",-666666,-666666,-666666
+"New Hartford","0900551350","2016","Sewer",-666666,-666666,-666666
+"New Haven","0900952070","2016","Sewer","Water Pollution Cntrl Auth.","(203) 466-5281",-666666
+"Newington","0900352140","2016","Sewer",-666666,-666666,-666666
+"New London","0901152350","2016","Sewer",-666666,-666666,-666666
+"New Milford","0900552630","2016","Sewer",-666666,-666666,-666666
+"Newtown","0900152980","2016","Sewer",-666666,-666666,-666666
+"Norfolk","0900553470","2016","Sewer",-666666,-666666,-666666
+"North Branford","0900953890","2016","Sewer","Town of North Branford Water Pollution Cntrl Auth.","(203) 315-6009",-666666
+"North Canaan","0900554030","2016","Sewer",-666666,-666666,-666666
+"North Haven","0900954870","2016","Sewer","U.S. Filter","(203) 239-5321","www.usfilter.com"
+"North Stonington","0901155500","2016","Sewer",-666666,-666666,-666666
+"Norwalk","0900156060","2016","Sewer",-666666,-666666,-666666
+"Norwich","0901156270","2016","Sewer",-666666,-666666,-666666
+"Old Lyme","0901157040","2016","Sewer",-666666,-666666,-666666
+"Old Saybrook","0900757320","2016","Sewer",-666666,-666666,-666666
+"Orange","0900957600","2016","Sewer","Town of Orange Water Pollution Cntrl Auth.","(203) 891-2122",-666666
+"Oxford","0900958300","2016","Sewer","Town of Oxford Water Pollution Cntrl Auth.","(203) 881-2168",-666666
+"Plainfield","0901559980","2016","Sewer",-666666,-666666,-666666
+"Plainville","0900360120","2016","Sewer",-666666,-666666,-666666
+"Plymouth","0900560750","2016","Sewer",-666666,-666666,-666666
+"Pomfret","0901561030","2016","Sewer",-666666,-666666,-666666
+"Portland","0900761800","2016","Sewer",-666666,-666666,-666666
+"Preston","0901162150","2016","Sewer",-666666,-666666,-666666
+"Prospect","0900962290","2016","Sewer",-666666,-666666,-666666
+"Putnam","0901562710","2016","Sewer",-666666,-666666,-666666
+"Redding","0900163480","2016","Sewer",-666666,-666666,-666666
+"Ridgefield","0900163970","2016","Sewer",-666666,-666666,-666666
+"Rocky Hill","0900365370","2016","Sewer",-666666,-666666,-666666
+"Roxbury","0900565930","2016","Sewer",-666666,-666666,-666666
+"Salem","0901166210","2016","Sewer",-666666,-666666,-666666
+"Salisbury","0900566420","2016","Sewer",-666666,-666666,-666666
+"Scotland","0901567400","2016","Sewer",-666666,-666666,-666666
+"Seymour","0900967610","2016","Sewer","Town of Seymour Water Pollution Cntrl Auth.","(203) 735-8087",-666666
+"Sharon","0900567960","2016","Sewer",-666666,-666666,-666666
+"Shelton","0900168170","2016","Sewer","City of Shelton Water Pollution Cntrl Auth.","(203) 924-1555",-666666
+"Sherman","0900168310","2016","Sewer",-666666,-666666,-666666
+"Simsbury","0900368940","2016","Sewer",-666666,-666666,-666666
+"Somers","0901369220","2016","Sewer",-666666,-666666,-666666
+"Southbury","0900969640","2016","Sewer",-666666,-666666,-666666
+"Southington","0900370550","2016","Sewer",-666666,-666666,-666666
+"South Windsor","0900371390","2016","Sewer",-666666,-666666,-666666
+"Sprague","0901171670","2016","Sewer",-666666,-666666,-666666
+"Stafford","0901372090","2016","Sewer",-666666,-666666,-666666
+"Stamford","0900173070","2016","Sewer",-666666,-666666,-666666
+"Sterling","0901573420","2016","Sewer",-666666,-666666,-666666
+"Stonington","0901173770","2016","Sewer",-666666,-666666,-666666
+"Stratford","0900174190","2016","Sewer","Town of Stratford Water Pollution Cntrl Auth.","(203) 385-4065",-666666
+"Suffield","0900374540","2016","Sewer",-666666,-666666,-666666
+"Thomaston","0900575730","2016","Sewer",-666666,-666666,-666666
+"Thompson","0901575870","2016","Sewer",-666666,-666666,-666666
+"Tolland","0901376290","2016","Sewer",-666666,-666666,-666666
+"Torrington","0900576570","2016","Sewer",-666666,-666666,-666666
+"Trumbull","0900177200","2016","Sewer","Town of Trumbull Water Pollution Cntrl Auth.","(203) 452-5050",-666666
+"Union","0901377830","2016","Sewer",-666666,-666666,-666666
+"Vernon","0901378250","2016","Sewer",-666666,-666666,-666666
+"Voluntown","0901178600","2016","Sewer",-666666,-666666,-666666
+"Wallingford","0900978740","2016","Sewer","Town of Wallingford Department of Public Utilities","(203) 949-2666",-666666
+"Warren","0900579510","2016","Sewer",-666666,-666666,-666666
+"Washington","0900579720","2016","Sewer",-666666,-666666,-666666
+"Waterbury","0900980070","2016","Sewer",-666666,-666666,-666666
+"Waterford","0901180280","2016","Sewer",-666666,-666666,-666666
+"Watertown","0900580490","2016","Sewer",-666666,-666666,-666666
+"West Hartford","0900382590","2016","Sewer",-666666,-666666,-666666
+"West Haven","0900982870","2016","Sewer","Town of West Haven Water Pollution Cntrl Auth.","(203) 937-3591",-666666
+"Westbrook","0900781680","2016","Sewer",-666666,-666666,-666666
+"Weston","0900183430","2016","Sewer",-666666,-666666,-666666
+"Westport","0900183500","2016","Sewer",-666666,-666666,-666666
+"Wethersfield","0900384900","2016","Sewer",-666666,-666666,-666666
+"Willington","0901385950","2016","Sewer",-666666,-666666,-666666
+"Wilton","0900186370","2016","Sewer",-666666,-666666,-666666
+"Winchester","0900586440","2016","Sewer",-666666,-666666,-666666
+"Windham","0901586790","2016","Sewer",-666666,-666666,-666666
+"Windsor Locks","0900387070","2016","Sewer",-666666,-666666,-666666
+"Windsor","0900387000","2016","Sewer",-666666,-666666,-666666
+"Wolcott","0900987560","2016","Sewer",-666666,-666666,-666666
+"Woodbridge","0900987700","2016","Sewer","Town of Woodbridge Sewer Auth.","(203) 389-3420",-666666
+"Woodbury","0900587910","2016","Sewer",-666666,-666666,-666666
+"Woodstock","0901588190","2016","Sewer",-666666,-666666,-666666
+"Andover","0901301080","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Ansonia","0900901220","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Ashford","0901501430","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Avon","0900302060","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Barkhamsted","0900502760","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Beacon Falls","0900903250","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Berlin","0900304300","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bethany","0900904580","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bethel","0900104720","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bethlehem","0900504930","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bloomfield","0900305910","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bolton","0901306260","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bozrah","0901106820","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Branford","0900907310","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bridgeport","0900108070","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bridgewater","0900508210","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Bristol","0900308490","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Brookfield","0900108980","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Brooklyn","0901509190","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Burlington","0900310100","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Canaan","0900510940","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Canterbury","0901512130","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Canton","0900312270","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Chaplin","0901513810","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Cheshire","0900914160","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Chester","0900714300","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Clinton","0900715350","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Colchester","0901115910","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Colebrook","0900516050","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Columbia","0901316400","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Cornwall","0900517240","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Coventry","0901317800","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Cromwell","0900718080","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Danbury","0900118500","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Darien","0900118850","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Deep River","0900719130","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Derby","0900919550","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Durham","0900720810","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Eastford","0901521860","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"East Granby","0900322070","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"East Haddam","0900722280","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"East Hampton","0900722490","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"East Hartford","0900322630","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"East Haven","0900922910","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"East Lyme","0901123400","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Easton","0900123890","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"East Windsor","0900324800","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Ellington","0901325360","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Enfield","0900325990","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Essex","0900726270","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Fairfield","0900126620","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Farmington","0900327600","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Franklin","0901129910","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Glastonbury","0900331240","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Goshen","0900532290","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Granby","0900332640","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Greenwich","0900133620","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Griswold","0901133900","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Groton","0901134250","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Guilford","0900934950","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Haddam","0900735230","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Hamden","0900935650","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Hampton","0901536000","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Hartford","0900337070","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Hartland","0900337140","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Harwinton","0900537280","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Hebron","0901337910","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Kent","0900540290","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Killingly","0901540500","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Killingworth","0900740710","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Lebanon","0901142390","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Ledyard","0901142600","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Lisbon","0901143230","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Litchfield","0900543370","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Lyme","0901144210","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Madison","0900944560","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Manchester","0900344700","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Mansfield","0901344910","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Marlborough","0900345820","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Meriden","0900946520","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Middlebury","0900946940","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Middlefield","0900747080","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Middletown","0900747360","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Milford","0900947535","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Monroe","0900148620","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Montville","0901148900","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Morris","0900549460","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Naugatuck","0900949950","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"New Britain","0900350440","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"New Canaan","0900150580","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"New Fairfield","0900150860","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"New Hartford","0900551350","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"New Haven","0900952070","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Newington","0900352140","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"New London","0901152350","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"New Milford","0900552630","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Newtown","0900152980","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Norfolk","0900553470","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"North Branford","0900953890","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"North Canaan","0900554030","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"North Haven","0900954870","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"North Stonington","0901155500","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Norwalk","0900156060","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Norwich","0901156270","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Old Lyme","0901157040","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Old Saybrook","0900757320","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Orange","0900957600","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Oxford","0900958300","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Plainfield","0901559980","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Plainville","0900360120","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Plymouth","0900560750","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Pomfret","0901561030","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Portland","0900761800","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Preston","0901162150","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Prospect","0900962290","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Putnam","0901562710","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Redding","0900163480","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Ridgefield","0900163970","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Rocky Hill","0900365370","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Roxbury","0900565930","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Salem","0901166210","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Salisbury","0900566420","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Scotland","0901567400","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Seymour","0900967610","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Sharon","0900567960","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Shelton","0900168170","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Sherman","0900168310","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Simsbury","0900368940","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Somers","0901369220","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Southbury","0900969640","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Southington","0900370550","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"South Windsor","0900371390","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Sprague","0901171670","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Stafford","0901372090","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Stamford","0900173070","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Sterling","0901573420","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Stonington","0901173770","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Stratford","0900174190","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Suffield","0900374540","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Thomaston","0900575730","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Thompson","0901575870","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Tolland","0901376290","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Torrington","0900576570","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Trumbull","0900177200","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Union","0901377830","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Vernon","0901378250","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Voluntown","0901178600","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Wallingford","0900978740","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Warren","0900579510","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Washington","0900579720","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Waterbury","0900980070","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Waterford","0901180280","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Watertown","0900580490","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"West Hartford","0900382590","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"West Haven","0900982870","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Westbrook","0900781680","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Weston","0900183430","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Westport","0900183500","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Wethersfield","0900384900","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Willington","0901385950","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Wilton","0900186370","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Winchester","0900586440","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Windham","0901586790","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Windsor Locks","0900387070","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Windsor","0900387000","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Wolcott","0900987560","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Woodbridge","0900987700","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Woodbury","0900587910","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Woodstock","0901588190","2016","Telephone","ATT","(800) 272-4321","www.snet.com"
+"Andover","0901301080","2016","Cable","Comcast Vernon","(800) 266-2278",-666666
+"Ansonia","0900901220","2016","Cable","Comcast Seymour","(800) 266-2278",-666666
+"Ashford","0901501430","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Avon","0900302060","2016","Cable","Comcast Plainville","(800) 266-2278",-666666
+"Barkhamsted","0900502760","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Beacon Falls","0900903250","2016","Cable","Comcast Seymour","(800) 266-2278",-666666
+"Berlin","0900304300","2016","Cable","Comcast Plainville","(800) 266-2278",-666666
+"Bethany","0900904580","2016","Cable","Comcast Seymour","(800) 266-2278",-666666
+"Bethel","0900104720","2016","Cable","Comcast Danbury","(800) 266-2278",-666666
+"Bethlehem","0900504930","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Bloomfield","0900305910","2016","Cable","Comcast Hartford","(800) 266-2278",-666666
+"Bolton","0901306260","2016","Cable","Comcast Vernon","(800) 266-2278",-666666
+"Bozrah","0901106820","2016","Cable","Comcast Norwich","(800) 266-2278",-666666
+"Branford","0900907310","2016","Cable","Comcast Branford","(800) 266-2278",-666666
+"Bridgeport","0900108070","2016","Cable","Cablevisions Systems of Southern CT","(203) 336-2225",-666666
+"Bridgewater","0900508210","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Bristol","0900308490","2016","Cable","Comcast Plainville","(800) 266-2278",-666666
+"Brookfield","0900108980","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Brooklyn","0901509190","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Burlington","0900310100","2016","Cable","Comcast Plainville","(800) 266-2278",-666666
+"Canaan","0900510940","2016","Cable","Comcast Lakeville","(800) 266-2278",-666666
+"Canterbury","0901512130","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Canton","0900312270","2016","Cable","Comcast Plainville","(800) 266-2278",-666666
+"Chaplin","0901513810","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Cheshire","0900914160","2016","Cable","Cox Communication, Meriden","(800) 955-9515",-666666
+"Chester","0900714300","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Clinton","0900715350","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Colchester","0901115910","2016","Cable","Comcast Norwich","(800) 266-2278",-666666
+"Colebrook","0900516050","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Columbia","0901316400","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Cornwall","0900517240","2016","Cable","Cablevision of Litchfield, Inc.","(860) 567-3103",-666666
+"Coventry","0901317800","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Cromwell","0900718080","2016","Cable","Comcast Middletown","(800) 266-2278",-666666
+"Danbury","0900118500","2016","Cable","Comcast Danbury","(800) 266-2278",-666666
+"Darien","0900118850","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"Deep River","0900719130","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Derby","0900919550","2016","Cable","Comcast Seymour","(800) 266-2278",-666666
+"Durham","0900720810","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Eastford","0901521860","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"East Granby","0900322070","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"East Haddam","0900722280","2016","Cable","Comcast Old Lyme","(800) 266-2278",-666666
+"East Hampton","0900722490","2016","Cable","Comcast Middletown","(800) 266-2278",-666666
+"East Hartford","0900322630","2016","Cable","Comcast Hartford","(800) 266-2278",-666666
+"East Haven","0900922910","2016","Cable","Comcast Branford","(800) 266-2278",-666666
+"East Lyme","0901123400","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"Easton","0900123890","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"East Windsor","0900324800","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Ellington","0901325360","2016","Cable","Comcast Vernon","(800) 266-2278",-666666
+"Enfield","0900325990","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Essex","0900726270","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Fairfield","0900126620","2016","Cable","Cablevisions Systems of Southern CT","(203) 336-2225",-666666
+"Farmington","0900327600","2016","Cable","Comcast Plainville","(800) 266-2278",-666666
+"Franklin","0901129910","2016","Cable","Comcast Norwich","(800) 266-2278",-666666
+"Glastonbury","0900331240","2016","Cable","Cox Communications, Manchester","(800) 955-9515",-666666
+"Goshen","0900532290","2016","Cable","Cablevision of Litchfield, Inc.","(860) 567-3103",-666666
+"Granby","0900332640","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Greenwich","0900133620","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"Griswold","0901133900","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"Groton","0901134250","2016","Cable","Thames Valley Communications, Inc","(860) 446-4009",-666666
+"Guilford","0900934950","2016","Cable","Comcast Branford","(800) 266-2278",-666666
+"Haddam","0900735230","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Hamden","0900935650","2016","Cable","Comcast New Haven","(800) 266-2278",-666666
+"Hampton","0901536000","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Hartford","0900337070","2016","Cable","Comcast Hartford","(800) 266-2278",-666666
+"Hartland","0900337140","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Harwinton","0900537280","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Hebron","0901337910","2016","Cable","Comcast Vernon","(800) 266-2278",-666666
+"Kent","0900540290","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Killingly","0901540500","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"Killingworth","0900740710","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Lebanon","0901142390","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Ledyard","0901142600","2016","Cable","Comcast/Groton-Thames Valley Comm","(860) 445-8116",-666666
+"Lisbon","0901143230","2016","Cable","Comcast Norwich","(800) 266-2278",-666666
+"Litchfield","0900543370","2016","Cable","Cablevision of Litchfield, Inc.","(860) 567-3103",-666666
+"Lyme","0901144210","2016","Cable","Comcast Old Lyme","(800) 266-2278",-666666
+"Madison","0900944560","2016","Cable","Comcast Branford","(800) 266-2278",-666666
+"Manchester","0900344700","2016","Cable","Cox Communications, Manchester","(800) 955-9515",-666666
+"Mansfield","0901344910","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Marlborough","0900345820","2016","Cable","Comcast Vernon","(800) 266-2278",-666666
+"Meriden","0900946520","2016","Cable","Cox Communication, Meriden","(800) 955-9515",-666666
+"Middlebury","0900946940","2016","Cable","Comcast Waterbury","(800) 266-2278",-666666
+"Middlefield","0900747080","2016","Cable","Comcast Middletown","(800) 266-2278",-666666
+"Middletown","0900747360","2016","Cable","Comcast Middletown","(800) 266-2278",-666666
+"Milford","0900947535","2016","Cable","Cablevisions Systems of Southern CT","(203) 336-2225",-666666
+"Monroe","0900148620","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Montville","0901148900","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"Morris","0900549460","2016","Cable","Cablevision of Litchfield, Inc.","(860) 567-3103",-666666
+"Naugatuck","0900949950","2016","Cable","Comcast Seymour","(800) 266-2278",-666666
+"New Britain","0900350440","2016","Cable","Comcast Plainville","(800) 266-2278",-666666
+"New Canaan","0900150580","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"New Fairfield","0900150860","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"New Hartford","0900551350","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"New Haven","0900952070","2016","Cable","Comcast New Haven","(800) 266-2278",-666666
+"Newington","0900352140","2016","Cable","Cox Communications, Manchester","(800) 955-9515",-666666
+"New London","0901152350","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"New Milford","0900552630","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Newtown","0900152980","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Norfolk","0900553470","2016","Cable","Comcast Lakeville","(800) 266-2278",-666666
+"North Branford","0900953890","2016","Cable","Comcast Branford","(800) 266-2278",-666666
+"North Canaan","0900554030","2016","Cable","Comcast Lakeville","(800) 266-2278",-666666
+"North Haven","0900954870","2016","Cable","Comcast Branford","(800) 266-2278",-666666
+"North Stonington","0901155500","2016","Cable","Comcast/Groton-Thames Valley Comm","(860) 445-8116",-666666
+"Norwalk","0900156060","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"Norwich","0901156270","2016","Cable","Comcast Norwich","(800) 266-2278",-666666
+"Old Lyme","0901157040","2016","Cable","Comcast Old Lyme","(800) 266-2278",-666666
+"Old Saybrook","0900757320","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Orange","0900957600","2016","Cable","Cablevisions Systems of Southern CT","(203) 336-2225",-666666
+"Oxford","0900958300","2016","Cable","Comcast Seymour","(800) 266-2278",-666666
+"Plainfield","0901559980","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"Plainville","0900360120","2016","Cable","Comcast Plainville","(800) 266-2278",-666666
+"Plymouth","0900560750","2016","Cable","Comcast Waterbury","(800) 266-2278",-666666
+"Pomfret","0901561030","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Portland","0900761800","2016","Cable","Comcast Middletown","(800) 266-2278",-666666
+"Preston","0901162150","2016","Cable","Comcast Norwich","(800) 266-2278",-666666
+"Prospect","0900962290","2016","Cable","Comcast Waterbury","(800) 266-2278",-666666
+"Putnam","0901562710","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"Redding","0900163480","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"Ridgefield","0900163970","2016","Cable","Comcast Danbury","(800) 266-2278",-666666
+"Rocky Hill","0900365370","2016","Cable","Cox Communications, Manchester","(800) 955-9515",-666666
+"Roxbury","0900565930","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Salem","0901166210","2016","Cable","Comcast Old Lyme","(800) 266-2278",-666666
+"Salisbury","0900566420","2016","Cable","Comcast Lakeville","(800) 266-2278",-666666
+"Scotland","0901567400","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Seymour","0900967610","2016","Cable","Comcast Seymour","(800) 266-2278",-666666
+"Sharon","0900567960","2016","Cable","Comcast Lakeville","(800) 266-2278",-666666
+"Shelton","0900168170","2016","Cable","Comcast Seymour","(800) 266-2278",-666666
+"Sherman","0900168310","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Simsbury","0900368940","2016","Cable","Comcast Hartford","(800) 266-2278",-666666
+"Somers","0901369220","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Southbury","0900969640","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Southington","0900370550","2016","Cable","Cox Communication, Meriden","(800) 955-9515",-666666
+"South Windsor","0900371390","2016","Cable","Cox Communications, Manchester","(800) 955-9515",-666666
+"Sprague","0901171670","2016","Cable","Comcast Norwich","(800) 266-2278",-666666
+"Stafford","0901372090","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Stamford","0900173070","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"Sterling","0901573420","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"Stonington","0901173770","2016","Cable","Comcast/Groton-Thames Valley Comm","(860) 445-8116",-666666
+"Stratford","0900174190","2016","Cable","Cablevisions Systems of Southern CT","(203) 336-2225",-666666
+"Suffield","0900374540","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Thomaston","0900575730","2016","Cable","Cablevision of Litchfield, Inc.","(860) 567-3103",-666666
+"Thompson","0901575870","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Tolland","0901376290","2016","Cable","Comcast Vernon","(800) 266-2278",-666666
+"Torrington","0900576570","2016","Cable","Cablevision of Litchfield, Inc.","(860) 567-3103",-666666
+"Trumbull","0900177200","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Union","0901377830","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Vernon","0901378250","2016","Cable","Comcast Vernon","(800) 266-2278",-666666
+"Voluntown","0901178600","2016","Cable","Comcast/Groton-Thames Valley Comm","(860) 445-8116",-666666
+"Wallingford","0900978740","2016","Cable","Comcast Branford","(800) 266-2278",-666666
+"Warren","0900579510","2016","Cable","Charter Comm. of Western CT - Cablevision","(860) 567-3103",-666666
+"Washington","0900579720","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Waterbury","0900980070","2016","Cable","Comcast Waterbury","(800) 266-2278",-666666
+"Waterford","0901180280","2016","Cable","Metrocast Communication of CT, LLC","(860) 442-8525",-666666
+"Watertown","0900580490","2016","Cable","Cablevision of Litchfield, Inc.","(860) 567-3103",-666666
+"West Hartford","0900382590","2016","Cable","Comcast Hartford","(800) 266-2278",-666666
+"West Haven","0900982870","2016","Cable","Comcast New Haven","(800) 266-2278",-666666
+"Westbrook","0900781680","2016","Cable","Comcast Clinton","(800) 266-2278",-666666
+"Weston","0900183430","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"Westport","0900183500","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"Wethersfield","0900384900","2016","Cable","Cox Communications, Manchester","(800) 955-9515",-666666
+"Willington","0901385950","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Wilton","0900186370","2016","Cable","Cablevision of Connecticut, LP","(203) 847-6666",-666666
+"Winchester","0900586440","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Windham","0901586790","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
+"Windsor Locks","0900387070","2016","Cable","Cox Communications, Enfield","(800) 955-9515",-666666
+"Windsor","0900387000","2016","Cable","Comcast Hartford","(800) 266-2278",-666666
+"Wolcott","0900987560","2016","Cable","Comcast Waterbury","(800) 266-2278",-666666
+"Woodbridge","0900987700","2016","Cable","Cablevisions Systems of Southern CT","(203) 336-2225",-666666
+"Woodbury","0900587910","2016","Cable","Charter Communications of Western CT","(800) 827-8288",-666666
+"Woodstock","0901588190","2016","Cable","Charter Communications of Northeastern CT","(800) 827-8288",-666666
