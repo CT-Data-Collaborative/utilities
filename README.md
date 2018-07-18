@@ -1,7 +1,5 @@
 Utilities
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/utilities.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/utilities)
-
 Utilities reports utility providers by municipalities.
 
 Data Source: Municipalities

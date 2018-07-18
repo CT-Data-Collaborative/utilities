@@ -56,11 +56,11 @@
       }
     }
   ],
-  "last_modified": "06/01/2017",
+  "last_modified": "07/18/2018",
   "ckan_extras": {
     "full_description": {
       "ckan_name": "Full Description",
-      "value": "Utilities reports utility providers by municipalities. Utilities reported here include Cable, Electric, Gas, Sewer, Telephone, and Water suppliers.",
+      "value": "Utilities reports utility providers by municipalities. Utilities reported here include Cable, Electric, Gas, Sewer, Telephone, and Water suppliers, where applicable.",
       "type": "string"
     },
     "suppression": {
@@ -106,12 +106,12 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": ["2016"],
+      "value": ["2016", "2018"],
       "type": "array"
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2016",
+      "value": "2018",
       "type": "string"
     },
     "disabled_views": {
@@ -136,7 +136,7 @@
       "ckan_name": "Default",
       "value": {
         "Town": "Hartford",
-        "Year": ["2016"],
+        "Year": ["2018"],
         "Utility": ["Electric"]
       },
       "type": "object"
